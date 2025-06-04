@@ -34,11 +34,11 @@ Install dependencies via pip before proceed with the next steps.
 
 ## 🚀 How to Run
 
-### #1 Run interactively (Colab or Jupyter)
+### Option 1: Run interactively (Colab or Jupyter)
 
 Open `steam_reviews_ai.ipynb` in Google Colab or locally and follow the step-by-step instructions.
 
-### #2 Open Google link with prepared script
+### Option 2: Run from command line
 
 Open [this link](https://colab.research.google.com/drive/1R_6iUcplaLBBGvSZxJEUnSaVfwviMwa0?usp=sharing), duplicate it to your drive and run step by step.
 
