@@ -34,7 +34,7 @@ Install dependencies via pip before proceed with the next steps.
 
 ## 🚀 How to Run
 
-### Option 1: Run interactively (Colab or Jupyter)
+### Option 1: Run interactively (Colab, Jupyter, VSCode or JetBrains with plugin)
 
 Open `steam_reviews_ai.ipynb` in Google Colab or locally and follow the step-by-step instructions.
 
