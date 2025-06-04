@@ -42,7 +42,10 @@ Open `steam_reviews_ai.ipynb` in Google Colab or locally and follow the step-by-
 
 Open [this link](https://colab.research.google.com/drive/1R_6iUcplaLBBGvSZxJEUnSaVfwviMwa0?usp=sharing), duplicate it to your drive and run step by step.
 
-Hint: To make the .ipynb openable on GitHub, use this command before uploading it: `jq '.metadata.widgets."application/vnd.jupyter.widget-state+json" += {"state": {}}' notebook.ipynb > temp_notebook.ipynb`
+Hint: To make the .ipynb openable on GitHub, use this command before uploading it: 
+```
+jq '.metadata.widgets."application/vnd.jupyter.widget-state+json" += {"state": {}}' notebook.ipynb > temp_notebook.ipynb
+```
 
 The script will:
 
